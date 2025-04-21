@@ -1,0 +1,13 @@
+ay 8
+ab 2
+abc 1
+gu 1
+pa 1
+fat 1
+ayush 1
+pu 3
+gas 1
+li 1
+s 1
+om 3
+tr 1
